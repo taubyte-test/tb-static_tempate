@@ -1,3 +1,3 @@
-cp !(/taubyte) / out/
+cp index.html /out
 
 exit $?
